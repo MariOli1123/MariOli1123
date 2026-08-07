@@ -33,5 +33,5 @@ Apaixonado por transformar rotinas operacionais complexas e monótonas em **flux
 ### 📬 Vamos conversar?
 Estou aberto a oportunidades na área de automação de processos, integração de sistemas e análise de tecnologia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuu0000@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/marioliwork/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marioliwork@gmail.com)

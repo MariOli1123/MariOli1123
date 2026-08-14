@@ -18,11 +18,11 @@ Apaixonado por transformar rotinas operacionais complexas e monótonas em **flux
 
 | Projeto | Descrição | Stack Técnica | Repositório |
 | :--- | :--- | :--- | :--- |
+| **FindJobs - Triagem de Vagas com IA** | Automação que raspa vagas no LinkedIn via Apify, elimina duplicatas via JS, analisa compatibilidade com IA Agent e dispara alertas com cover letter no Telegram. | `n8n`, `Apify`, `OpenRouter`, `LangChain`, `Google Sheets`, `Telegram API` | [Acessar](https://github.com/MariOli1123/FindJobs) |
 | **Supervisor de Qualidade & Feedback** | Pipeline agendado que agrega avaliações de consultoria, usa IA para sintetizar reclamações críticas (nota < 7) e gera relatórios para consultores. | `n8n`, `OpenRouter`, `Google Sheets`, `Gmail API` | [Acessar](https://github.com/MariOli1123/Supervisor-de-Qualidade-Feedback) |
 | **Agente Imobiliário com IA & CRM** | Atendimento automatizado por e-mail que usa *Tools* de IA para buscar imóveis em planilha e registrar/atualizar leads em tempo real. | `n8n`, `LangChain`, `Google Sheets Tool`, `Gemini` | [Acessar](https://github.com/MariOli1123/Agente-Imobiliario-com-IA-CRM) |
 | **Triagem & Resposta Comercial** | Leitura contínua de e-mails com filtro de segurança para domínios internos e respostas em HTML contextualizadas via IA. | `n8n`, `AI Agent`, `Memory Buffer`, `Gmail API` | [Acessar](https://github.com/MariOli1123/Triagem-Resposta-Comercial) |
 | **Alerta de Estoque Crítico** | Automação diária que monitora níveis de estoque em planilhas, filtra itens abaixo do mínimo e dispara relatórios consolidados em Excel. | `n8n`, `Google Sheets`, `Schedule Trigger`, `Gmail` | [Acessar](https://github.com/MariOli1123/Alerta-de-Estoque-Critico) |
-| **FindJobs - Triagem de Vagas com IA** | Automação que raspa vagas no LinkedIn via Apify, elimina duplicatas via JS, analisa compatibilidade com IA Agent e dispara alertas com cover letter no Telegram. | `n8n`, `Apify`, `OpenRouter`, `LangChain`, `Google Sheets`, `Telegram API` | [Acessar](https://github.com/MariOli1123/FindJobs) |
 
 ---
 

@@ -1,11 +1,11 @@
-# Olá, eu sou o Marcus Vinícius (Mari'Oli) 👋
+# Olá, eu sou o Marcus Vinícius (Mari'Oli) 
 
-### 🤖 Analista de Automação de Processos Low-Code & IA
+### Analista de Automação de Processos Low-Code & IA
 Apaixonado por transformar rotinas operacionais complexas e monótonas em **fluxos inteligentes, eficientes e integrados**. Transicionei minha carreira do suporte e gestão de processos para a tecnologia, focando no desenvolvimento de automações *end-to-end* e na integração de Inteligência Artificial Generativa para otimizar operações de Vendas, Atendimento, Qualidade e Estoque.
 
 ---
 
-### 🛠️ Competências & Stack Técnica
+### Competências & Stack Técnica
 
 * **Orquestração Low-Code:** n8n (Avançado — tratamento de erros, loops, rotinas agendadas, gerenciamento de arquivos)
 * **Inteligência Artificial Generativa:** Agentes de IA, LangChain, Engenharia de Prompt, chamadas de *Tools/Function Calling*, memória contextual e guardrails
@@ -14,7 +14,7 @@ Apaixonado por transformar rotinas operacionais complexas e monótonas em **flux
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Descrição | Stack Técnica | Repositório |
 | :--- | :--- | :--- | :--- |
@@ -26,12 +26,12 @@ Apaixonado por transformar rotinas operacionais complexas e monótonas em **flux
 
 ---
 
-### 🎓 Formação & Aperfeiçoamento
+### Formação & Aperfeiçoamento
 * **Comunidade Impressionadora (Hashtag Treinamentos):** Formação contínua em Inteligência Artificial, n8n, Python e Análise de Dados.
 
 ---
 
-### 📬 Vamos conversar?
+### Vamos conversar?
 Estou aberto a oportunidades na área de automação de processos, integração de sistemas e análise de tecnologia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marioliwork/)

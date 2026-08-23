@@ -5,6 +5,15 @@ Apaixonado por transformar rotinas operacionais complexas e monótonas em **flux
 
 ---
 
+### 🛠️ Competências & Stack Técnica
+
+* **Orquestração Low-Code & Lógica:** n8n (Avançado — tratamento de erros, loops, rotinas agendadas, gerenciamento de arquivos) e scripts em JavaScript (Node.js).
+* **Inteligência Artificial Generativa:** Agentes de IA, LangChain, Engenharia de Prompt, chamadas de *Tools/Function Calling*, memória contextual, parse estruturado de dados (*Structured Output Parser*) e guardrails.
+* **Provedores de LLM:** OpenAI (GPT-4o / GPT-4o-mini), Google Gemini, OpenRouter.
+* **Integrações, APIs & Scraping:** Webhooks, Requisições HTTP, Apify API, Google Sheets API, Gmail API, Telegram Bot API.
+
+---
+
 ### Projetos em Destaque
 
 | Projeto | Descrição | Stack Técnica | Repositório |

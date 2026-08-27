@@ -1,9 +1,16 @@
-# Olá, eu sou o Marcus Vinícius (Mari'Oli) 
-
-### Analista de Automação de Processos Low-Code & IA
-Apaixonado por transformar rotinas operacionais complexas e monótonas em **fluxos inteligentes, eficientes e integrados**. Transicionei minha carreira do suporte e gestão de processos para a tecnologia, focando no desenvolvimento de automações *end-to-end* e na integração de Inteligência Artificial Generativa para otimizar operações de Vendas, Atendimento, Qualidade e Estoque.
-
-![eu](https://github.com/MariOli1123/MariOli1123/blob/main/eu-GitHub.png?raw=true)
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <img src="https://github.com/MariOli1123/MariOli1123/blob/main/eu-GitHub.png?raw=true" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <h3>Analista de Automação de Processos Low-Code & IA</h3>
+      <p>
+        Apaixonado por transformar rotinas operacionais complexas e monótonas em <strong>fluxos inteligentes, eficientes e integrados</strong>. Transicionei minha carreira do suporte e gestão de processos para a tecnologia, focando no desenvolvimento de automações <em>end-to-end</em> e na integração de Inteligência Artificial Generativa para otimizar operações de Vendas, Atendimento, Qualidade e Estoque.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 

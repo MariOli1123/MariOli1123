@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Competências & Stack Técnica
+### Competências & Stack Técnica
 
 * **Orquestração Low-Code & Lógica:** n8n (Avançado — tratamento de erros, loops, rotinas agendadas, gerenciamento de arquivos) e scripts em JavaScript (Node.js).
 * **Inteligência Artificial Generativa:** Agentes de IA, LangChain, Engenharia de Prompt, chamadas de *Tools/Function Calling*, memória contextual, parse estruturado de dados (*Structured Output Parser*) e guardrails.

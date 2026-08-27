@@ -3,6 +3,11 @@
 ### Analista de Automação de Processos Low-Code & IA
 Apaixonado por transformar rotinas operacionais complexas e monótonas em **fluxos inteligentes, eficientes e integrados**. Transicionei minha carreira do suporte e gestão de processos para a tecnologia, focando no desenvolvimento de automações *end-to-end* e na integração de Inteligência Artificial Generativa para otimizar operações de Vendas, Atendimento, Qualidade e Estoque.
 
+
+<img width="823" height="797" alt="image" src="https://github.com/user-attachments/assets/986abc11-4a71-4aa1-8aec-af0fcc76c639" />
+
+
+
 ---
 
 ### 🛠️ Competências & Stack Técnica
